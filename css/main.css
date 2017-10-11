@@ -1,0 +1,41 @@
+
+body{
+    background-image: url('/background.jpg');
+    text-align: center;
+ 
+}
+div{height: 200px;
+    border: 2px solid white;
+
+}
+
+h1{
+    font-size: 70px;
+    color:rgb(145, 255, 0);
+    
+}
+h2{font-size: 70px;
+    color:#EEFF00;}
+
+ p{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 60px;
+    color:rgba(8, 40, 219, 0.993);
+    }
+footer{
+    border:2px solid white ;
+    font-size: 80px;
+}   
+img{height: 700px;
+ width: 500px;
+ border: 2px solid rgb(251, 255, 0);
+ padding: 5px;
+ margin-bottom:70px;
+ margin-left: 30px;
+ float: left;
+}
+.par{
+    height: 700px;
+    width: 55%;
+    float :right;
+}
